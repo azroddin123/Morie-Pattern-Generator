@@ -1,0 +1,3 @@
+nb-utils
+opencv-python
+albumentations
